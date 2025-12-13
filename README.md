@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
-<h3 align="center">Kendini geliştirmeye çalışan bir öğrenciyim</h3>
+<h3 align="center">I am a student who strives to improve myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billythestudent&label=Profile%20views&color=c40000&style=flat" alt="billythestudent" /> </p>
 
 - 💬 Ask me about **js, html, css, java, react**
 - 🛠️ I am currently developing a project called Quirky in Discord.
-- 📫 Bana buradan oluşabilirsiniz **2025171031@ogr.cu.edu.tr**
+- 📫 You can contact me here: **2025171031@ogr.cu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
