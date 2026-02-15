@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billythestudent&label=Profile%20views&color=c40000&style=flat" alt="billythestudent" /> </p>
 
 - 💬 Ask me about **js, html, css, java, react**
-- 🛠️ I am currently developing a project called Quirky in Discord.
+- 🛠️ I am currently developing a project called Tellal in Android.
 - 📫 You can contact me here: **2025171031@ogr.cu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
